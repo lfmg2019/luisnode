@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "username": "Hernan",
+      "id": 1
+    },
+    {
+      "username": "eli",
+      "id": 2
+    },
+    {
+      "username": "h",
+      "id": 3
+    },
+    {
+      "username": "lfmg2019",
+      "id": 4
+    }
+  ],
+  "tareas": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "text": "h",
+      "id": 3
+    },
+    {
+      "text": "h",
+      "id": 4
+    },
+    {
+      "text": "h",
+      "id": 5
+    },
+    {
+      "text": "h",
+      "id": 6
+    },
+    {
+      "text": "h",
+      "id": 7
+    },
+    {
+      "text": "h",
+      "id": 8
+    },
+    {
+      "text": "",
+      "id": 9
+    },
+    {
+      "text": "",
+      "id": 10
+    },
+    {
+      "text": "",
+      "id": 11
+    },
+    {
+      "text": "",
+      "id": 12
+    },
+    {
+      "text": "g",
+      "user": "eli",
+      "id": 13
+    },
+    {
+      "text": "hh",
+      "user": "lfmg2019",
+      "id": 14
+    }
+  ]
+}
